@@ -1,2 +1,2 @@
-# MVP_Sprint_Engenharia_de_Dados
+# MVP_Student_Depression.ipynb
 Sprint: Engenharia de Dados
