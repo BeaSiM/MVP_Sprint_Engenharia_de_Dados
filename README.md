@@ -1,2 +1,3 @@
 # MVP_Student_Depression.ipynb
 Sprint: Engenharia de Dados
+FAVOR CONSIDERAR O ARQUIVO ZIPADO! O TRABALHO FICOU EXTENSO DEMAIS.
